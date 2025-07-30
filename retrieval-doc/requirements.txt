@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+pdfplumber
+pydantic
+python-multipart
+faiss-cpu
+openai
+tqdm
